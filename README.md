@@ -13,7 +13,7 @@
 
 ## Introduction
 
-The Proteomics Calculator is designed to analyze Excel files containing results from LCMS analysis of samples obtained from proteomics facilities. Its purpose is to simplify and automate the final proteomics analysis process, eliminating the need for researchers to repeat repetitive steps for each Excel spreadsheet.
+The Proteomics Calculator is designed to analyze Excel files containing results from LCMS analysis of bacterial samples conducted in proteomics facilities. Its purpose is to simplify and automate the final proteomics analysis process, eliminating the need for researchers to repeat repetitive steps for each Excel spreadsheet with proteomics results.
 
 ## Step 1: Installation and Preparing Excel Files
 
