@@ -1,6 +1,6 @@
 # Proteomics Calculator
 
-## Contents
+## Content
 
 1. [Introduction](#introduction)
 2. [Step 1: Installation and Preparing Excel Files](#step-1-installation-and-preparing-excel-files)
