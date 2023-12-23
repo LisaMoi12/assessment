@@ -30,7 +30,7 @@ The next step involves sorting the data and moving all hits with ribosomal units
 
 ## Step 3: Final Calculations of Protein Concentrations
 
-The final step computes the protein concentrations. The values in the 'Area' column are divided by the previously calculated 'Ribosomal average'. In this research, the focus is on determining the content of the target protein 'blaTEM' with the accession 'A0A0X9U5K8'.
+The final step computes the protein concentrations. The values in the 'Area' column are divided by the previously calculated 'Ribosomal average'. In this research, the focus is on determining the content of the target protein 'blaTEM', however, the accession for this protein might differ in each sample.
 
 The code provides output with the calculated value representing the content of the target protein in the sample.
 
