@@ -17,7 +17,9 @@ The Proteomics Calculator is designed to analyze Excel files containing results 
 
 ## Step 1: Installation and Preparing Excel Files
 
-To analyze Excel spreadsheets, this code uses the pandas library (`import pandas as pd`). The structure of each Excel spreadsheet follows a specific format, containing various columns. For our research, we focus on specific columns: 'Accession', 'Description', '# Peptides', and 'Area'. 
+To analyze Excel spreadsheets, this code uses the pandas library (`import pandas as pd`). 
+The next step is to import the data: (`data = pd.read_excel('insert file pathway)`), provided file named "TEST" can be used to run this code. 
+The structure of each Excel spreadsheet follows a specific format, containing various columns. For our research, we focus on specific columns: 'Accession', 'Description', '# Peptides', and 'Area'. 
 
 Rows with less than 3 in the 'Peptides' column are disregarded as the value is too small. Sorting the data by the 'Peptides' column and removing rows with values less than 3 is the initial step.
 
