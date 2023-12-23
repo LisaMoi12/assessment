@@ -26,7 +26,7 @@ Rows with less than 3 in the 'Peptides' column are disregarded as the value is t
 
 ## Step 2: Filtering Data and Calculating Ribosomal Average
 
-The next step involves sorting the data and moving all hits with ribosomal units of E. coli to the top of the spreadsheet. Due to the variability in ribosomal unit naming conventions, the code employs various filters to account for different ribosomal units. Subsequently, the code calculates the ribosomal average, a key value for subsequent calculations.
+The next step involves sorting the data and moving all hits with ribosomal units of E. coli to the top of the spreadsheet. Due to the variability in ribosomal unit naming conventions, the code employs various filters to account for all ribosomal units. Subsequently, the code calculates the ribosomal average, a key value for further calculations.
 
 ## Step 3: Final Calculations of Protein Concentrations
 
